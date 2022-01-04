@@ -1,0 +1,19 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.harari{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.hu hu{
+    width: 40%;
+    padding-left: 5%;
+}
+.hu hu img{
+     width: 20%;
+}
